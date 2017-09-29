@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/packagedTaskRestaurant.dir/packagedTaskRestaurant.cpp.o  -o packagedTaskRestaurant -rdynamic 

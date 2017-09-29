@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/ompSingle.cpp
+iostream
+-
+chrono
+-
+random
+-
+vector
+-
+string
+-
+thread
+-
+omp.h
+-
+

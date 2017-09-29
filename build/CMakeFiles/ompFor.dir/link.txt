@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/ompFor.dir/ompFor.cpp.o  -o ompFor -rdynamic 

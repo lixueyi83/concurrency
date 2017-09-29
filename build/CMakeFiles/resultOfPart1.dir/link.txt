@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/resultOfPart1.dir/resultOfPart1.cpp.o  -o resultOfPart1 -rdynamic 

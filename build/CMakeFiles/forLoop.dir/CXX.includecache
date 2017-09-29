@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/forLoop.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+chrono
+-
+

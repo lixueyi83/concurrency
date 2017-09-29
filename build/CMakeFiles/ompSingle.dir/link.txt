@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/ompSingle.dir/ompSingle.cpp.o  -o ompSingle -rdynamic 

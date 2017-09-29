@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/packagedTask.cpp
+iostream
+-
+string
+-
+chrono
+-
+thread
+-
+future
+-
+utility
+-
+

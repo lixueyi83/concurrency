@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/promise2.cpp
+iostream
+-
+string
+-
+chrono
+-
+thread
+-
+future
+-
+utility
+-
+

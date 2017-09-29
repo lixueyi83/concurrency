@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/ompForSchedule.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+omp.h
+-
+

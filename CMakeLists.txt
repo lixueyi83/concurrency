@@ -23,7 +23,7 @@ file(GLOB source-files RELATIVE ${CMAKE_SOURCE_DIR} *.cpp)
 foreach(file ${source-files})
 
   message(" found file: " ${file})
-  string( REPLACE ".cpp" ""  file-name ${file})
+  string(REPLACE ".cpp" ""  file-name ${file})
   add_executable(${file-name} ${file})
   
 endforeach(file ${source-files})

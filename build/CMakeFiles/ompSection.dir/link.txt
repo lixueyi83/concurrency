@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/ompSection.dir/ompSection.cpp.o  -o ompSection -rdynamic 

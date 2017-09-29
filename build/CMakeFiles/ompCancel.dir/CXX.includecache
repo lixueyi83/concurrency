@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/ompCancel.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+cmath
+-
+chrono
+-
+omp.h
+-
+

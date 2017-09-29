@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/guard.dir/guard.cpp.o  -o guard -rdynamic 

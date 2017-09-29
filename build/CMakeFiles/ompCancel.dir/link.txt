@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/ompCancel.dir/ompCancel.cpp.o  -o ompCancel -rdynamic 

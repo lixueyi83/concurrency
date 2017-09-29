@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/conditionVariable2.cpp
+iostream
+-
+string
+-
+queue
+-
+random
+-
+chrono
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+

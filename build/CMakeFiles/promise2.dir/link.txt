@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/promise2.dir/promise2.cpp.o  -o promise2 -rdynamic 

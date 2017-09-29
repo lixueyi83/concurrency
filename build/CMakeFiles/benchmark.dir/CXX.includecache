@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/github-li/multithreading-concurrency/benchmark.cpp
+iostream
+-
+iomanip
+-
+limits
+-
+vector
+-
+numeric
+-
+algorithm
+-
+chrono
+-
+thread
+-
+future
+-
+

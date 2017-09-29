@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pthread -std=c++11 -fopenmp    CMakeFiles/referenceArguments.dir/referenceArguments.cpp.o  -o referenceArguments -rdynamic 
